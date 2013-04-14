@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS 960 */
+
+
+#cabecera
+{
+	background-image:url("./surfing.jpg");	
+	background-repeat:no-repeat;
+	height:3.5em;
+	width:100%;
+	text-align:center;
+	font-size: 18px;
+	
+}
+
+#primer_colum
+{
+	font-size: 12px;
+	background-color:blue;
+	height:47em;
+}
+
+#second_colum
+{
+	font-size: 12px;
+	background-color:white;
+	height:42em;
+
+
+}
+#tercer_colum
+{
+	font-size: 12px;
+	background-color:white;
+	height:42em;
+	
+
+}
+
+#primer_seg_colum
+{
+		
+		background-color:blue;
+		height:47em;
+		font-size: 12px;
+
+}

@@ -1,0 +1,36 @@
+#cabecera
+{	
+	height: 100;
+	width:530;
+	float: right;
+	background-image:url('surfing.jpg');
+}
+
+#menu
+{
+	width: 200,
+	height: auto;
+	float: left;
+
+}
+
+#contenido
+{
+	width:530;
+	height: auto;
+	float: right;
+}
+body
+{
+	width: 770;
+	height: auto;
+
+}
+p
+{
+	font-family: arial;
+	margin-top: 0.5em;
+}
+a:link {color: green;}
+a:hover {color: red;}
+a:visited {color: blue; font-family: Verdana; font-size: 1.5em;}
